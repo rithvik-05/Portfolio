@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Portfolio Website",
+    "description": "A modern, responsive personal website showcasing projects and skills with smooth animations and dark mode support.",
+    "tech": ["React", "CSS", "JavaScript", "Framer Motion"],
+    "link": "https://github.com/rithvik-05/portfolio",
+    "live": "#",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "name": "Todo App",
+    "description": "A full-stack task management application with user authentication, real-time updates, and cloud storage.",
+    "tech": ["React", "Node.js", "Express", "MongoDB", "JWT"],
+    "link": "https://github.com/rithvik-05/todo-app",
+    "live": "#",
+    "image": "https://images.unsplash.com/photo-1486312338219-ce68e2c6f44d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "name": "E-commerce Store",
+    "description": "A complete online shopping platform with product catalog, shopping cart, payment integration, and admin dashboard.",
+    "tech": ["React", "Redux", "Firebase", "Stripe", "Material-UI"],
+    "link": "https://github.com/rithvik-05/ecommerce-store",
+    "live": "#",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "name": "Weather Dashboard",
+    "description": "A responsive weather application with location-based forecasts, interactive maps, and historical data visualization.",
+    "tech": ["React", "Chart.js", "OpenWeather API", "Geolocation"],
+    "link": "https://github.com/rithvik-05/weather-dashboard",
+    "live": "#",
+    "image": "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "name": "Chat Application",
+    "description": "Real-time messaging app with private and group chats, file sharing, and end-to-end encryption.",
+    "tech": ["React", "Socket.io", "Node.js", "MongoDB", "WebRTC"],
+    "link": "https://github.com/rithvik-05/chat-app",
+    "live": "#",
+    "image": "https://images.unsplash.com/photo-1577563908411-5077b6dc7624?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "name": "Blog Platform",
+    "description": "A full-featured blogging platform with markdown support, SEO optimization, and social sharing capabilities.",
+    "tech": ["Next.js", "Sanity CMS", "Tailwind CSS", "Vercel"],
+    "link": "https://github.com/rithvik-05/blog-platform",
+    "live": "#",
+    "image": "https://images.unsplash.com/photo-1486312338219-ce68e2c6f44d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+  }
+]

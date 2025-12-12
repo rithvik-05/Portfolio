@@ -1,0 +1,38 @@
+[
+  {
+    "title": "LeetCode 150+ Questions Solved",
+    "desc": "Achieved 150+ problem solving milestone on LeetCode with focus on algorithms and data structures.",
+    "icon": "FaTrophy",
+    "date": "2024"
+  },
+  {
+    "title": "Google Frontend Developer Certificate",
+    "desc": "Completed Google's Frontend Development Professional Certificate on Coursera.",
+    "icon": "FaCertificate",
+    "date": "2023"
+  },
+  {
+    "title": "Hackathon Winner",
+    "desc": "Won first place in XYZ Hackathon for building an innovative healthcare solution in 24 hours.",
+    "icon": "FaMedal",
+    "date": "2024"
+  },
+  {
+    "title": "HackerRank Gold Badge",
+    "desc": "Earned Gold badge in multiple domains including Problem Solving, JavaScript, and SQL.",
+    "icon": "FaStar",
+    "date": "2023"
+  },
+  {
+    "title": "Open Source Contributor",
+    "desc": "Active contributor to React and Node.js open source projects with 50+ merged pull requests.",
+    "icon": "FaGithub",
+    "date": "2024"
+  },
+  {
+    "title": "AWS Certified Cloud Practitioner",
+    "desc": "Passed AWS Certified Cloud Practitioner exam demonstrating cloud computing knowledge.",
+    "icon": "FaAws",
+    "date": "2024"
+  }
+]
