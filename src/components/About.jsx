@@ -45,13 +45,6 @@ const About = () => {
         </p>
         <div className="about-buttons">
           <a 
-            href="/resume.pdf" 
-            download 
-            className="resume-btn"
-          >
-            <FaDownload /> Download Resume
-          </a>
-          <a 
             href="#contact"
             onClick={(e) => {
               e.preventDefault();
