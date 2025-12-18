@@ -16,7 +16,7 @@ const Achievements = () => {
 
   return (
     <section className="achievements" id="achievements">
-      <h2>Achievements & Certifications of mine</h2>
+      <h2>Achievements & Certifications</h2>
       <div className="achievements-container">
         {items.map((item, index) => (
           <div className="achievement-card" key={index}>
